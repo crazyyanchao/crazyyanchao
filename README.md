@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Yanchao Ma
-![avatar](https://media.licdn.cn/dms/image/C5103AQGqiqC6W7qg2g/profile-displayphoto-shrink_200_200/0?e=1597881600&v=beta&t=WSagsyv05Z08CMopjeGh_EhUnCmsgnACAnfAWtYJC10)
-
 ## Goals | 个人目标
 有创意地应用科学定律，来系统化地解决现实问题。
 
