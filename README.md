@@ -22,18 +22,8 @@ Here are some ideas to get you started:
 
 | [Linkedin](https://www.linkedin.com/in/yanchao-ma-0624b3b7/) | [CSDN](https://yc-ma.blog.csdn.net) | [GitHubIO](https://crazyyanchao.github.io/blog) | [GitHub](https://github.com/crazyyanchao) |
 
-## Skills | 主要技能
-- | Neo4j认证技术专家 | 大数据架构工程师 |
-- | Java | Shell | Python | Scala |
-- | Neo4j Ecosystem | ONgDB Ecosystem | MySQL | SQL | Cypher |
-- | Elasticsearch Ecosystem | TensorFlow™ | Hadoop Ecosystem | Spark Ecosystem|
-- | Spring Boot | Data Visualization |
-- | Maven | Git |
-- | IntelliJ IDEA | Slack |VNote | Sublime Text | Postman | Navicat | Xshell | Chrome |
-- | Windows | Linux |
-
 ## About Me | 关于我
-你们好，我叫Tony.Ma，这是我的博客。
+你们好，我叫Tony.Ma。
 
 我崇尚 Geek 精神与开源文化 :octocat:，喜欢简洁、优美、模块化的代码。爱折腾，折腾系统，折腾软件，折腾语言，折腾框架……生命不息，折腾不止。:muscle:
 
@@ -44,6 +34,6 @@ Here are some ideas to get you started:
 如果你有任何问题，请给我发送邮件：[yanchaoma@foxmail.com](https://mail.qq.com/)
 
 ## Some Links | 相关链接
-- [About This Blog](https://crazyyanchao.github.io/blog/2020/01/01/%E5%85%B3%E4%BA%8E%E6%AD%A4%E5%8D%9A%E5%AE%A2.html)
+- [About](https://crazyyanchao.github.io/blog/2020/01/01/%E5%85%B3%E4%BA%8E%E6%AD%A4%E5%8D%9A%E5%AE%A2.html)
 
 
