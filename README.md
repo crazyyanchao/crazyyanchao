@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **crazyyanchao/crazyyanchao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=crazyyanchao&show_icons=true&icon_color=805AD5&text_color=2edfa3&bg_color=ffffff&hide_title=true&title_color=20a0ff" alt="crazyyanchao's GitHub Stats">
 
 ## Goals | 个人目标
 有创意地应用科学定律，来系统化地解决现实问题。
