@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 
 | [Linkedin](https://www.linkedin.com/in/yanchao-ma-0624b3b7/) | [CSDN](https://yc-ma.blog.csdn.net) | [GitHubIO](https://crazyyanchao.github.io/blog) | [GitHub](https://github.com/crazyyanchao) |
 
+- 微信公众号：马超的博客
+
+![Qr-code-for-public-account](https://img-blog.csdnimg.cn/20201207192614699.jpg#pic_left)
+
 ## About Me | 关于我
 你们好，我叫Tony.Ma。
 
