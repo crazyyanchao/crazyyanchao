@@ -22,5 +22,3 @@ Here are some ideas to get you started:
 ## Contact | 联系方式
 
 | [Linkedin](https://www.linkedin.com/in/yanchao-ma-0624b3b7/) | [CSDN](https://yc-ma.blog.csdn.net) | [GitHubIO](https://crazyyanchao.github.io/blog) | [GitHub](https://github.com/crazyyanchao) | [微信公众号](https://img-blog.csdnimg.cn/20210418163715965.gif) |
-
-![Qr-code-for-public-account](https://img-blog.csdnimg.cn/20210418163715965.gif)
