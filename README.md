@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=crazyyanchao&show_icons=true&icon_color=805AD5&text_color=2edfa3&bg_color=ffffff&hide_title=true&title_color=20a0ff" alt="crazyyanchao's GitHub Stats">
 
 ## Goals | 个人目标
-有创意地应用科学定律，来系统化地解决现实问题。
+创意化应用科学定律，系统化解决现实问题！
 
 ## Contact | 联系方式
 
