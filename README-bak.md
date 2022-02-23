@@ -10,7 +10,7 @@
   <strong><a href="https://github.com/crazyyanchao">GitHub</a></strong>  
 </p>
 
-<a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/crazyyanchao/count.svg" /></a>
+<a href="https://img-blog.csdnimg.cn/20210418163715965.gif"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/crazyyanchao/count.svg" /></a>
 
 #  [Welcome To 超逸の博客](https://yangchaoyi.vip/)
 <a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
