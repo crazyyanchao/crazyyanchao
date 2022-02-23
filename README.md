@@ -28,7 +28,7 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 <p align="left">
-<img alt="yc-ma's GitHub Stats" height='230' src="https://github-readme-stats.vercel.app/api?username=crazyyanchao&show_icons=true&include_all_commits=true">
-<img alt="yc-ma's GitHub Stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazyyanchao">
+<img alt="yc-ma's" height='230' src="https://github-readme-stats.vercel.app/api?username=crazyyanchao&show_icons=true&include_all_commits=true">
+<img alt="yc-ma's" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazyyanchao">
 </p>
 
