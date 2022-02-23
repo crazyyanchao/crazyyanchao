@@ -2,7 +2,6 @@
 <h1 align="center"> Hello! 👋  I'm <a href="https://github.com/crazyyanchao">马超</a>!</h1>
 <h1 align="center">a 𝑫𝒂𝒕𝒂 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </h1>
 
-
 <p align="center">
   <strong><a href="https://img-blog.csdnimg.cn/20210418163715965.gif">公众号：马超的博客</a></strong> |
   <strong><a href="https://yc-ma.blog.csdn.net">CSDN</a></strong> |
@@ -10,13 +9,6 @@
   <strong><a href="https://crazyyanchao.github.io/blog">GitHubIO</a></strong>  |
   <strong><a href="https://github.com/crazyyanchao">GitHub</a></strong>  
 </p>
-
-## 2022 年目标
-
-<a href="https://github.com/crazyyanchao"><img src="https://img.shields.io/github/stars/crazyyanchao?color=faf408&label=github%20stars&logo=github" /></a><br/>
-
-
-希望能在 22 年在哔哩哔哩达成 10w 粉丝成就，<a href="https://space.bilibili.com/351534170">B 站：一百个Chocolate</a><br/>座右铭：创意化应用科学定律，系统化解决现实问题！<br/> QQ交流群：666151691
 
 <a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/crazyyanchao/count.svg" /></a>
 
