@@ -10,15 +10,14 @@
   <strong><a href="https://github.com/crazyyanchao">GitHub</a></strong>  
 </p>
 
-## Goals | 个人目标
-创意化应用科学定律，系统化解决现实问题！
-
 <a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/crazyyanchao/count.svg" /></a>
 
 #  [Welcome To 超逸の博客](https://yangchaoyi.vip/)
 <a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 
 座右铭：学如逆水行舟，不进则退！
+## Goals | 个人目标
+创意化应用科学定律，系统化解决现实问题！
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
