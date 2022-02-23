@@ -13,14 +13,7 @@
 <a href="https://img-blog.csdnimg.cn/20210418163715965.gif"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/crazyyanchao/count.svg" /></a>
 
 #  [Welcome To 马超的博客](https://img-blog.csdnimg.cn/20210418163715965.gif)
-<a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 
-## 𝗦𝘁𝗮𝘁𝘀
-
-<p align="left">
-<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=Chocolate1999&show_icons=true&include_all_commits=true">
-<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chocolate1999">
-</p>
 - 👨🏻‍💻  [小狮子前端笔记仓库](https://github.com/crazyyanchao/Front-end-learning-to-organize-notes)
 - 👩🏻‍💻  [leetcode-javascript](https://github.com/crazyyanchao/leetcode-javascript)
 - 👩🏻‍💻  [【亡羊补牢】JS灵魂之问](https://blog.csdn.net/weixin_42429718/category_10357771.html)
@@ -31,9 +24,16 @@
 - 👩🏻‍💻  [Vue全家桶系列](https://blog.csdn.net/weixin_42429718/category_9656024.html)
 - 👨🏻‍💻 [React 进阶小册](https://blog.csdn.net/weixin_42429718/category_11084201.html)
 
-
-
 座右铭：学如逆水行舟，不进则退！
+
+<a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+<p align="left">
+<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=Chocolate1999&show_icons=true&include_all_commits=true">
+<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chocolate1999">
+</p>
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=crazyyanchao&show_icons=true&icon_color=805AD5&text_color=2edfa3&bg_color=ffffff&hide_title=true&title_color=20a0ff" alt="crazyyanchao's GitHub Stats">
