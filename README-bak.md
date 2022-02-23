@@ -14,16 +14,6 @@
 
 #  [Welcome To 超逸の博客](https://yangchaoyi.vip/)
 <a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
-- 👨🏻‍💻  [小狮子前端笔记仓库](https://github.com/crazyyanchao/Front-end-learning-to-organize-notes)
-- 👩🏻‍💻  [leetcode-javascript](https://github.com/crazyyanchao/leetcode-javascript)
-- 👩🏻‍💻  [【亡羊补牢】JS灵魂之问](https://blog.csdn.net/weixin_42429718/category_10357771.html)
-- 👨🏻‍💻  [【亡羊补牢】挑战数据结构与算法](https://blog.csdn.net/weixin_42429718/category_10357778.html)
-- 👩🏻‍💻  [【亡羊补牢】计算机网络灵魂之问](https://blog.csdn.net/weixin_42429718/category_10357781.html)
-- 👨🏻‍💻  [【亡羊补牢】操作系统灵魂之问](https://blog.csdn.net/weixin_42429718/category_10357782.html)
-- 👨🏻‍💻  [博客搭建教程](https://github.com/crazyyanchao/hexo-blog-lionkk)
-- 👩🏻‍💻  [Vue全家桶系列](https://blog.csdn.net/weixin_42429718/category_9656024.html)
-- 👨🏻‍💻 [React 进阶小册](https://blog.csdn.net/weixin_42429718/category_11084201.html)
-
 
 座右铭：学如逆水行舟，不进则退！
 
