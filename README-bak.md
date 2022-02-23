@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hello! 👋  I'm <a href="https://github.com/crazyyanchao">马超</a>!</h1>
-<h1 align="center">a Data 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </h1>
+<h1 align="center">a 𝑫𝒂𝒕𝒂 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </h1>
 
 
 <p align="center">
@@ -13,20 +13,12 @@
 
 ## 2022 年目标
 
-
-博主 21 届本科毕业，可以称呼我 Chocolate，在这里分享知识与日常总结。
-
-
-<a href="https://space.bilibili.com/351534170"><img src="https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=bilibili%20fans&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D351534170" /></a><a href="https://github.com/Chocolate1999"><img src="https://img.shields.io/github/stars/Chocolate1999?color=faf408&label=github%20stars&logo=github" /></a><br/>
+<a href="https://github.com/crazyyanchao"><img src="https://img.shields.io/github/stars/crazyyanchao?color=faf408&label=github%20stars&logo=github" /></a><br/>
 
 
+希望能在 22 年在哔哩哔哩达成 10w 粉丝成就，<a href="https://space.bilibili.com/351534170">B 站：一百个Chocolate</a><br/>座右铭：创意化应用科学定律，系统化解决现实问题！<br/> QQ交流群：666151691
 
-希望能在 22 年在哔哩哔哩达成 10w 粉丝成就，<a href="https://space.bilibili.com/351534170">B 站：一百个Chocolate</a><br/>座右铭：学如逆水行舟，不进则退。<br/> QQ交流群：666151691
-
-[:fire:2022 年的成长记录](https://github.com/LionCubFrontEnd/Chocolate-2022)
-
-
-<a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Chocolate1999/count.svg" /></a>
+<a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/crazyyanchao/count.svg" /></a>
 
 ##  [Welcome To 超逸の博客](https://yangchaoyi.vip/)
 <a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
