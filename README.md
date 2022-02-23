@@ -22,7 +22,7 @@
 - [Elasticsearch负载均衡策略发生死锁解决方案](https://yc-ma.blog.csdn.net/article/details/91896841)
 - [NEO4J亿级数据导入导出以及数据更新](https://yc-ma.blog.csdn.net/article/details/83589953)
 - [使用图数据分析比特币区块链](https://yc-ma.blog.csdn.net/article/details/119703004)
-- [【图数据】股权网络穿透一千层需要多久？](https://blog.csdn.net/superman_xxx/article/details/117339393)
+- [股权网络穿透一千层需要多久？](https://blog.csdn.net/superman_xxx/article/details/117339393)
 
 创意化应用科学定律，系统化解决现实问题！
 
