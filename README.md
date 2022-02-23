@@ -24,15 +24,11 @@
 - 👩🏻‍💻  [Vue全家桶系列](https://blog.csdn.net/weixin_42429718/category_9656024.html)
 - 👨🏻‍💻 [React 进阶小册](https://blog.csdn.net/weixin_42429718/category_11084201.html)
 
-座右铭：学如逆水行舟，不进则退！
+创意化应用科学定律，系统化解决现实问题！
 
 ## 𝗦𝘁𝗮𝘁𝘀
-
 <p align="left">
-<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=Chocolate1999&show_icons=true&include_all_commits=true">
-<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chocolate1999">
+<img alt="crazyyanchao's GitHub Stats" height='230' src="https://github-readme-stats.vercel.app/api?username=crazyyanchao&show_icons=true&include_all_commits=true">
+<img alt="crazyyanchao's GitHub Stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazyyanchao">
 </p>
-
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=crazyyanchao&show_icons=true&icon_color=805AD5&text_color=2edfa3&bg_color=ffffff&hide_title=true&title_color=20a0ff" alt="crazyyanchao's GitHub Stats">
 
