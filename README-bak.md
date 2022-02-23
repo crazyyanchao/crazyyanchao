@@ -12,13 +12,25 @@
 
 <a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/crazyyanchao/count.svg" /></a>
 
-##  [Welcome To 超逸の博客](https://yangchaoyi.vip/)
+#  [Welcome To 超逸の博客](https://yangchaoyi.vip/)
+<a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
+- 👨🏻‍💻  [小狮子前端笔记仓库](https://github.com/crazyyanchao/Front-end-learning-to-organize-notes)
+- 👩🏻‍💻  [leetcode-javascript](https://github.com/crazyyanchao/leetcode-javascript)
+- 👩🏻‍💻  [【亡羊补牢】JS灵魂之问](https://blog.csdn.net/weixin_42429718/category_10357771.html)
+- 👨🏻‍💻  [【亡羊补牢】挑战数据结构与算法](https://blog.csdn.net/weixin_42429718/category_10357778.html)
+- 👩🏻‍💻  [【亡羊补牢】计算机网络灵魂之问](https://blog.csdn.net/weixin_42429718/category_10357781.html)
+- 👨🏻‍💻  [【亡羊补牢】操作系统灵魂之问](https://blog.csdn.net/weixin_42429718/category_10357782.html)
+- 👨🏻‍💻  [博客搭建教程](https://github.com/crazyyanchao/hexo-blog-lionkk)
+- 👩🏻‍💻  [Vue全家桶系列](https://blog.csdn.net/weixin_42429718/category_9656024.html)
+- 👨🏻‍💻 [React 进阶小册](https://blog.csdn.net/weixin_42429718/category_11084201.html)
 
 
-座右铭：创意化应用科学定律，系统化解决现实问题！
+
+座右铭：学如逆水行舟，不进则退！
 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
@@ -28,6 +40,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
