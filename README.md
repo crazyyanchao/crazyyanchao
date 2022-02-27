@@ -19,19 +19,19 @@
 
 # 𝑊𝑒𝑙𝑐𝑜𝑚𝑒 𝑇𝑜[马超的博客](https://raw.githubusercontent.com/crazyyanchao/blog/master/images/wechat.gif)
 <a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
-- [TensorFlow实现ResNet 152网络结构的forward耗时检测](https://yc-ma.blog.csdn.net/article/details/65452735)
-- [TensorFlow实现Google InceptionNet V3](https://yc-ma.blog.csdn.net/article/details/65451916)
-- [Neo4j Bloom试用体验](https://yc-ma.blog.csdn.net/article/details/81320171)
-- [知识图谱可视化](https://yc-ma.blog.csdn.net/article/details/80328423)
-- [MapReduce作业Map阶段和Reduce阶段重要过程详述](https://yc-ma.blog.csdn.net/article/details/51390804)
-- [Elasticsearch负载均衡策略发生死锁解决方案](https://yc-ma.blog.csdn.net/article/details/91896841)
-- [NEO4J亿级数据导入导出以及数据更新](https://yc-ma.blog.csdn.net/article/details/83589953)
-- [使用图数据分析比特币区块链](https://yc-ma.blog.csdn.net/article/details/119703004)
-- [股权网络穿透一千层需要多久？](https://blog.csdn.net/superman_xxx/article/details/117339393)
+- <font color=#24292F>[TensorFlow实现ResNet 152网络结构的forward耗时检测](https://yc-ma.blog.csdn.net/article/details/65452735)</font>
+- <font color=#24292F>[TensorFlow实现Google InceptionNet V3](https://yc-ma.blog.csdn.net/article/details/65451916)</font>
+- <font color=#24292F>[Neo4j Bloom试用体验](https://yc-ma.blog.csdn.net/article/details/81320171)</font>
+- <font color=#24292F>[知识图谱可视化](https://yc-ma.blog.csdn.net/article/details/80328423)</font>
+- <font color=#24292F>[MapReduce作业Map阶段和Reduce阶段重要过程详述](https://yc-ma.blog.csdn.net/article/details/51390804)</font>
+- <font color=#24292F>[Elasticsearch负载均衡策略发生死锁解决方案](https://yc-ma.blog.csdn.net/article/details/91896841)</font>
+- <font color=#24292F>[NEO4J亿级数据导入导出以及数据更新](https://yc-ma.blog.csdn.net/article/details/83589953)</font>
+- <font color=#24292F>[使用图数据分析比特币区块链](https://yc-ma.blog.csdn.net/article/details/119703004)</font>
+- <font color=#24292F>[股权网络穿透一千层需要多久？](https://blog.csdn.net/superman_xxx/article/details/117339393)</font>
 
-创意化应用科学定律，系统化解决现实问题！
+- <font color=#0969DA>创意化应用科学定律，系统化解决现实问题！</font>
 
-## 𝗦𝘁𝗮𝘁𝘀
+## 𝐒𝐭𝐚𝐭𝐬
 <p align="left">
 <img alt="crazyyanchao's Github Stats" height='220' src="https://github-readme-stats.vercel.app/api?username=crazyyanchao&show_icons=true&include_all_commits=true">
 <img alt="crazyyanchao's Github Stats" height='220' src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazyyanchao">
