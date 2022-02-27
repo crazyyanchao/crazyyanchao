@@ -27,9 +27,9 @@
 - <font color=#24292F>[Elasticsearch负载均衡策略发生死锁解决方案](https://yc-ma.blog.csdn.net/article/details/91896841)</font>
 - <font color=#24292F>[NEO4J亿级数据导入导出以及数据更新](https://yc-ma.blog.csdn.net/article/details/83589953)</font>
 - <font color=#24292F>[使用图数据分析比特币区块链](https://yc-ma.blog.csdn.net/article/details/119703004)</font>
-- <font color=#24292F>[股权网络穿透一千层需要多久？](https://blog.csdn.net/superman_xxx/article/details/117339393)</font>
+- <font color=#24292F>[股权网络穿透一千层需要多久？]</font>(https://blog.csdn.net/superman_xxx/article/details/117339393)</font>
 
-- <font color=#0969DA>创意化应用科学定律，系统化解决现实问题！</font>
+<font color=#0969DA>创意化应用科学定律，系统化解决现实问题！</font>
 
 ## 𝐒𝐭𝐚𝐭𝐬
 <p align="left">
