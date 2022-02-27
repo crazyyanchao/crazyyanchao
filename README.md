@@ -3,7 +3,7 @@
 <h1 align="center">a 𝑫𝒂𝒕𝒂 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </h1>
 
 <p align="center">
-  <strong><a href="https://img-blog.csdnimg.cn/20210418163715965.gif">公众号：马超的博客</a></strong> |
+  <strong><a href="https://raw.githubusercontent.com/crazyyanchao/blog/master/images/wechat.gif">公众号：马超的博客</a></strong> |
   <strong><a href="https://yc-ma.blog.csdn.net">CSDN</a></strong> |
   <strong><a href="https://www.linkedin.com/in/yanchao-ma-0624b3b7/">Linkedin</a></strong> |
   <strong><a href="https://crazyyanchao.github.io/blog">GitHubIO</a></strong>  |
@@ -15,9 +15,9 @@
   <strong><a href="https://gitee.com/yc-ma">码云</a></strong>
 </p>
 
-<a href="https://img-blog.csdnimg.cn/20210418163715965.gif"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/crazyyanchao/count.svg" /></a>
+<a href="https://raw.githubusercontent.com/crazyyanchao/blog/master/images/wechat.gif"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/crazyyanchao/count.svg" /></a>
 
-#  [𝑊𝑒𝑙𝑐𝑜𝑚𝑒 𝑇𝑜 马超的博客](https://img-blog.csdnimg.cn/20210418163715965.gif)
+#  [𝑊𝑒𝑙𝑐𝑜𝑚𝑒 𝑇𝑜 马超的博客](https://raw.githubusercontent.com/crazyyanchao/blog/master/images/wechat.gif)
 <a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 - [TensorFlow实现ResNet 152网络结构的forward耗时检测](https://yc-ma.blog.csdn.net/article/details/65452735)
 - [TensorFlow实现Google InceptionNet V3](https://yc-ma.blog.csdn.net/article/details/65451916)
@@ -32,7 +32,7 @@
 创意化应用科学定律，系统化解决现实问题！
 
 ## 𝐀𝐛𝐨𝐮𝐭
-如果您有任何问题，可以来<font color=#0969da>[我的博客](https://img-blog.csdnimg.cn/20210418163715965.gif)</font>或者给我发送邮件：<font color=#0969da>[yanchaoma@foxmail.com](https://mail.qq.com/)</font>
+如果您有任何问题，可以来<font color=#0969da>[我的博客](https://raw.githubusercontent.com/crazyyanchao/blog/master/images/wechat.gif)</font>或者给我发送邮件：<font color=#0969da>[yanchaoma@foxmail.com](https://mail.qq.com/)</font>
 
 ## 𝗦𝘁𝗮𝘁𝘀
 <p align="left">
