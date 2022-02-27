@@ -31,12 +31,12 @@
 
 创意化应用科学定律，系统化解决现实问题！
 
-## 𝐀𝐛𝐨𝐮𝐭
-如果您有任何问题，可以来<font color=#0969da>[我的博客](https://raw.githubusercontent.com/crazyyanchao/blog/master/images/wechat.gif)</font>或者给我发送邮件：<font color=#0969da>[yanchaoma@foxmail.com](https://mail.qq.com/)</font>
-
 ## 𝗦𝘁𝗮𝘁𝘀
 <p align="left">
 <img alt="crazyyanchao's Github Stats" height='220' src="https://github-readme-stats.vercel.app/api?username=crazyyanchao&show_icons=true&include_all_commits=true">
 <img alt="crazyyanchao's Github Stats" height='220' src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazyyanchao">
 </p>
+
+## 𝐀𝐛𝐨𝐮𝐭
+如果您有任何问题，可以来<font color=#0969da>[我的博客](https://raw.githubusercontent.com/crazyyanchao/blog/master/images/wechat.gif)</font>或者给我发送邮件：<font color=#0969da>[yanchaoma@foxmail.com](https://mail.qq.com/)</font>
 
