@@ -22,13 +22,13 @@
 - [重磅上市《精通Neo4j》](https://blog.csdn.net/superman_xxx/article/details/127971062)
 - [TensorFlow实现ResNet 152网络结构的forward耗时检测](https://yc-ma.blog.csdn.net/article/details/65452735)
 - [TensorFlow实现Google InceptionNet V3](https://yc-ma.blog.csdn.net/article/details/65451916)
-- [Neo4j Bloom试用体验](https://yc-ma.blog.csdn.net/article/details/81320171)
+- [Graphene图数据建模工具](https://blog.csdn.net/superman_xxx/article/details/122971888)
 - [知识图谱可视化](https://yc-ma.blog.csdn.net/article/details/80328423)
 - [MapReduce作业Map阶段和Reduce阶段重要过程详述](https://yc-ma.blog.csdn.net/article/details/51390804)
 - [Elasticsearch负载均衡策略发生死锁解决方案](https://yc-ma.blog.csdn.net/article/details/91896841)
 - [NEO4J亿级数据导入导出以及数据更新](https://yc-ma.blog.csdn.net/article/details/83589953)
-- [使用图数据分析比特币区块链](https://yc-ma.blog.csdn.net/article/details/119703004)
-- [股权网络穿透一千层需要多久？](https://blog.csdn.net/superman_xxx/article/details/117339393)
+- [从MariaDB的发展理解ONgDB开源图数据基金会](https://blog.csdn.net/superman_xxx/article/details/123153365)
+- [应用案例转载：基于图数据库的菜品推荐系统](https://blog.csdn.net/superman_xxx/article/details/117339393)
 
 <font color=#0969DA>**创意化应用科学定律，系统化解决现实问题！**</font>
 
