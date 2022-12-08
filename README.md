@@ -26,7 +26,7 @@
 - [图数据库ONgDB Release v-1.0.0](https://blog.csdn.net/superman_xxx/article/details/118424060)
 - [MapReduce作业Map阶段和Reduce阶段重要过程详述](https://yc-ma.blog.csdn.net/article/details/51390804)
 - [Elasticsearch负载均衡策略发生死锁解决方案](https://yc-ma.blog.csdn.net/article/details/91896841)
-- [NEO4J亿级数据导入导出以及数据更新](https://yc-ma.blog.csdn.net/article/details/83589953)
+- [翻译：通过图分析分散股票投资组合并降低风险增加收益](https://blog.csdn.net/superman_xxx/article/details/125054770)
 - [从MariaDB的发展理解ONgDB开源图数据基金会](https://blog.csdn.net/superman_xxx/article/details/123153365)
 - [应用案例转载：基于图数据库的菜品推荐系统](https://blog.csdn.net/superman_xxx/article/details/121549324)
 
