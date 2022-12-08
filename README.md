@@ -19,6 +19,7 @@
 
 # 𝑊𝑒𝑙𝑐𝑜𝑚𝑒 𝑇𝑜[马超的博客](https://raw.githubusercontent.com/crazyyanchao/blog/master/images/wechat.gif)
 <a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
+- [重磅上市《精通Neo4j》](https://blog.csdn.net/superman_xxx/article/details/127971062)
 - [TensorFlow实现ResNet 152网络结构的forward耗时检测](https://yc-ma.blog.csdn.net/article/details/65452735)
 - [TensorFlow实现Google InceptionNet V3](https://yc-ma.blog.csdn.net/article/details/65451916)
 - [Neo4j Bloom试用体验](https://yc-ma.blog.csdn.net/article/details/81320171)
