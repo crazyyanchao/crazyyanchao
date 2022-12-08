@@ -20,8 +20,8 @@
 # 𝑊𝑒𝑙𝑐𝑜𝑚𝑒 𝑇𝑜[马超的博客](https://raw.githubusercontent.com/crazyyanchao/blog/master/images/wechat.gif)
 <a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 - [重磅上市《精通Neo4j》](https://blog.csdn.net/superman_xxx/article/details/127971062)
-- [TensorFlow实现ResNet 152网络结构的forward耗时检测](https://yc-ma.blog.csdn.net/article/details/65452735)
-- [TensorFlow实现Google InceptionNet V3](https://yc-ma.blog.csdn.net/article/details/65451916)
+- [以图搜图-自动生成图模式匹配Cypher](https://blog.csdn.net/superman_xxx/article/details/117047689)
+- [Neo4j如何使用Data Fabric技术编织万亿图数据](https://blog.csdn.net/superman_xxx/article/details/124632638)
 - [Graphene图数据建模工具](https://blog.csdn.net/superman_xxx/article/details/122971888)
 - [知识图谱可视化](https://yc-ma.blog.csdn.net/article/details/80328423)
 - [MapReduce作业Map阶段和Reduce阶段重要过程详述](https://yc-ma.blog.csdn.net/article/details/51390804)
