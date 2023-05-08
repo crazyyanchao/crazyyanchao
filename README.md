@@ -20,6 +20,12 @@
 # 𝑊𝑒𝑙𝑐𝑜𝑚𝑒 𝑇𝑜[马超的博客](https://raw.githubusercontent.com/crazyyanchao/blog/master/images/wechat.gif)
 <a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 - [重磅上市《精通Neo4j》](https://blog.csdn.net/superman_xxx/article/details/127971062)
+- [LangChain 2 ONgDB：大模型+知识图谱实现领域知识问答](https://blog.csdn.net/superman_xxx/article/details/130434269)
+- [GPT-3.5 生成 Fabric Cypher](https://blog.csdn.net/superman_xxx/article/details/130393722)
+- [图谱问答：自定义组装问答系统进阶指南](https://blog.csdn.net/superman_xxx/article/details/130022089)
+- [使用Graphene构建知识图谱本体模型](https://blog.csdn.net/superman_xxx/article/details/129962189)
+- [基于RDF本体模型和图数据库实现知识查询与推理](https://blog.csdn.net/superman_xxx/article/details/130230839)
+- [生成 Cypher 能力：GPT3.5 VS ChatGLM](https://blog.csdn.net/superman_xxx/article/details/130435718)
 - [以图搜图-自动生成图模式匹配Cypher](https://blog.csdn.net/superman_xxx/article/details/117047689)
 - [Neo4j如何使用Data Fabric技术编织万亿图数据](https://blog.csdn.net/superman_xxx/article/details/124632638)
 - [Graphene图数据建模工具](https://blog.csdn.net/superman_xxx/article/details/122971888)
