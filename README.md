@@ -32,6 +32,11 @@ I have contributed to the following open-source projects:
 ### 📚 Books I’ve Written
 - [《精通Neo4j》](https://baike.baidu.com/item/%E7%B2%BE%E9%80%9ANeo4j): This is a book that I wrote together with friends from the Neo4j community.
 
+### 📚 Education
+- **Beijing Information Science and Technology University**: Bachelor of Science in Computer Science
+
+I have also obtained various certification certificates, which can be viewed on my [LinkedIn](https://www.linkedin.com/in/yanchao-ma-0624b3b7) profile.
+
 ## 𝑺𝒐𝒎𝒆 𝑩𝒍𝒐𝒈
 <a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 - [LangChain 2 ONgDB：大模型+知识图谱实现领域知识问答](https://blog.csdn.net/superman_xxx/article/details/130434269)
