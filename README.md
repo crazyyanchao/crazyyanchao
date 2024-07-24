@@ -3,22 +3,29 @@
 <h1 align="center">𝒂 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓</h1>
 
 <p align="center">
-  <strong><a href="https://raw.githubusercontent.com/crazyyanchao/blog/master/images/wechat.gif">公众号：马超的博客</a></strong> |
+  <strong><a href="https://raw.githubusercontent.com/crazyyanchao/blog/master/images/wechat.gif">Wechat Account: Ma Chao's Blog</a></strong> |
   <strong><a href="https://yc-ma.blog.csdn.net">CSDN</a></strong> |
   <strong><a href="https://www.linkedin.com/in/yanchao-ma-0624b3b7/">Linkedin</a></strong> |
   <strong><a href="https://crazyyanchao.github.io/blog">GitHubIO</a></strong>  |
   <strong><a href="https://github.com/crazyyanchao">GitHub</a></strong>  |
-  <strong><a href="https://www.zhihu.com/people/YanchaoMa">知乎</a></strong>  |
-  <strong><a href="https://space.bilibili.com/44763375">哔哩哔哩</a></strong>  |
-  <strong><a href="http://neo4j.com.cn/user/crazyyanchao">Neo4j中文社区</a></strong>  |
-  <strong><a href="http://www.demodashi.com/demo/13181.html">Demo大师</a></strong>  |
-  <strong><a href="https://gitee.com/yc-ma">码云</a></strong>
+  <strong><a href="https://www.zhihu.com/people/YanchaoMa">Zhihu</a></strong>  |
+  <strong><a href="https://space.bilibili.com/44763375">Bilibili</a></strong>  |
+  <strong><a href="http://neo4j.com.cn/user/crazyyanchao">Neo4j Community</a></strong>  |
+  <strong><a href="http://www.demodashi.com/demo/13181.html">Demo Master</a></strong>  |
+  <strong><a href="https://gitee.com/yc-ma">Gitee</a></strong>
 </p>
 
 <a href="https://raw.githubusercontent.com/crazyyanchao/blog/master/images/wechat.gif"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/crazyyanchao/count.svg" /></a>
 
 ## 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
 My career reflects my core values: an enduring commitment to lifelong learning, a deep dedication to environmental stewardship, and an insatiable curiosity that drives my exploration and innovation. These values guide my work across various domains.
+
+### 🌟 Featured Projects
+I have contributed to the following open-source projects:
+- [Neo4j](https://github.com/neo4j)
+- [LangChain](https://github.com/langchain-ai)
+- [GraphRAG](https://github.com/microsoft/graphrag)
+- [Graph Data Lab](https://github.com/ongdb-contrib)
 
 ## 𝑺𝒐𝒎𝒆 𝑩𝒍𝒐𝒈
 <a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
@@ -39,7 +46,7 @@ My career reflects my core values: an enduring commitment to lifelong learning, 
 - [从MariaDB的发展理解ONgDB开源图数据基金会](https://blog.csdn.net/superman_xxx/article/details/123153365)
 - [应用案例转载：基于图数据库的菜品推荐系统](https://blog.csdn.net/superman_xxx/article/details/121549324)
 
-<font color=#0969DA>**𝑊𝑒𝑙𝑐𝑜𝑚𝑒 𝑇𝑜 [My Blog](https://raw.githubusercontent.com/crazyyanchao/blog/master/images/wechat.gif)!**</font>
+<font color=#0969DA>**𝑊𝑒𝑙𝑐𝑜𝑚𝑒 𝑇𝑜 [𝑀𝑦 𝐵𝑙𝑜𝑔](https://raw.githubusercontent.com/crazyyanchao/blog/master/images/wechat.gif)!**</font>
 
 ## 𝐒𝐭𝐚𝐭𝐬
 
