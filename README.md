@@ -1,6 +1,6 @@
 
-<h1 align="center"> Hello! 👋  I'm <a href="https://github.com/crazyyanchao">马超</a>!</h1>
-<h1 align="center">a 𝑫𝒂𝒕𝒂 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </h1>
+<h1 align="center"> Hello! 👋  I'm <a href="https://github.com/crazyyanchao">𝒀𝒂𝒏𝒄𝒉𝒂𝒐𝑴𝒂</a>!</h1>
+<h1 align="center">𝒂 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓</h1>
 
 <p align="center">
   <strong><a href="https://raw.githubusercontent.com/crazyyanchao/blog/master/images/wechat.gif">公众号：马超的博客</a></strong> |
@@ -17,7 +17,10 @@
 
 <a href="https://raw.githubusercontent.com/crazyyanchao/blog/master/images/wechat.gif"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/crazyyanchao/count.svg" /></a>
 
-# 𝑊𝑒𝑙𝑐𝑜𝑚𝑒 𝑇𝑜[马超的博客](https://raw.githubusercontent.com/crazyyanchao/blog/master/images/wechat.gif)
+## About Me
+My career reflects my core values: an enduring commitment to lifelong learning, a deep dedication to environmental stewardship, and an insatiable curiosity that drives my exploration and innovation. These values guide my work across various domains.
+
+## Some Blog
 <a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 - [重磅上市《精通Neo4j》](https://blog.csdn.net/superman_xxx/article/details/127971062)
 - [LangChain 2 ONgDB：大模型+知识图谱实现领域知识问答](https://blog.csdn.net/superman_xxx/article/details/130434269)
@@ -36,14 +39,20 @@
 - [从MariaDB的发展理解ONgDB开源图数据基金会](https://blog.csdn.net/superman_xxx/article/details/123153365)
 - [应用案例转载：基于图数据库的菜品推荐系统](https://blog.csdn.net/superman_xxx/article/details/121549324)
 
-<font color=#0969DA>**创意化应用科学定律，系统化解决现实问题！**</font>
+<font color=#0969DA>**𝑊𝑒𝑙𝑐𝑜𝑚𝑒 𝑇𝑜 [My Blog](https://raw.githubusercontent.com/crazyyanchao/blog/master/images/wechat.gif)!**</font>
 
 ## 𝐒𝐭𝐚𝐭𝐬
-<p align="left">
-<img alt="crazyyanchao's Github Stats" height='220' src="https://github-readme-stats.vercel.app/api?username=crazyyanchao&show_icons=true&include_all_commits=true">
-<img alt="crazyyanchao's Github Stats" height='220' src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazyyanchao">
-</p>
 
-## 𝐀𝐛𝐨𝐮𝐭
-如果您有任何问题，可以来<font color=#0969da>[我的博客](https://raw.githubusercontent.com/crazyyanchao/blog/master/images/wechat.gif)</font>或者给我发送邮件：<font color=#0969da>[yanchaoma@foxmail.com](https://mail.qq.com/)</font>
+### 📈 GitHub Stats
+![Beckett's GitHub stats](https://github-readme-stats.vercel.app/api?username=crazyyanchao&show_icons=true&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazyyanchao&layout=compact&theme=algolia)
+
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=crazyyanchao&theme=algolia)
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=crazyyanchao&theme=algolia&column=7)
+
+---
+Feel free to reach out if you'd like to collaborate or just say hi!
 
