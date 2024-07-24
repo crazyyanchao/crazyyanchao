@@ -17,10 +17,10 @@
 
 <a href="https://raw.githubusercontent.com/crazyyanchao/blog/master/images/wechat.gif"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/crazyyanchao/count.svg" /></a>
 
-## About Me
+## 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
 My career reflects my core values: an enduring commitment to lifelong learning, a deep dedication to environmental stewardship, and an insatiable curiosity that drives my exploration and innovation. These values guide my work across various domains.
 
-## Some Blog
+## 𝑺𝒐𝒎𝒆 𝑩𝒍𝒐𝒈
 <a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 - [重磅上市《精通Neo4j》](https://blog.csdn.net/superman_xxx/article/details/127971062)
 - [LangChain 2 ONgDB：大模型+知识图谱实现领域知识问答](https://blog.csdn.net/superman_xxx/article/details/130434269)
