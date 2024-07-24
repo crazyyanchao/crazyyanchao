@@ -33,7 +33,8 @@ I have a deep admiration for engineers who contribute to open-source projects. I
 - [《精通Neo4j》](https://baike.baidu.com/item/%E7%B2%BE%E9%80%9ANeo4j): This is a book that I wrote together with friends from the Neo4j community.
 
 ### 📚 Education
-- **Beijing Information Science and Technology University**: Bachelor of Science in Computer Science
+- [Fund Practitioner Qualification](https://gs.amac.org.cn/amac-infodisc/res/pof/person/personDetail.html?accountId=2311031355428237&userId=1700000000699002): I have some experience in the fund industry.
+- **Beijing Information Science and Technology University**: Bachelor of Science in Computer Science and Technology.
 
 I have also obtained various certification certificates, which can be viewed on my [LinkedIn](https://www.linkedin.com/in/yanchao-ma-0624b3b7) profile.
 
