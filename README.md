@@ -29,8 +29,18 @@ I have a deep admiration for engineers who contribute to open-source projects. I
 - [LangChain](https://github.com/langchain-ai)
 - [GraphRAG](https://github.com/microsoft/graphrag)
 
+### 🛠 Tech Stack
+I am passionate about AI technology and have a grasp of LLM application development, graph data technology, front-end and back-end technologies. I never set limits for myself and I enjoy using technology to solve practical problems.
+
+### 🖥 Hardware
+I enjoy developing on both Linux and Windows platforms.
+
 ### 📚 Books I’ve Written
 - [《精通Neo4j》](https://baike.baidu.com/item/%E7%B2%BE%E9%80%9ANeo4j): This is a book that I wrote together with friends from the Neo4j community.
+
+### 💼 Work Experience
+- From April 2020 to the present, I have been working at a leading public fund management company. My primary responsibilities include data development, knowledge graph platform construction, and LLM application development, specifically applied to the financial asset management sector.
+- From May 2017 to April 2020, I worked at the Institute of Automation, Chinese Academy of Sciences for three years. My main responsibilities included the development of big data platforms and knowledge graph platform construction, with applications in social media sentiment analysis, multimedia analysis, and related fields.
 
 ### 📚 Education
 - [Fund Practitioner Qualification](https://gs.amac.org.cn/amac-infodisc/res/pof/person/personDetail.html?accountId=2311031355428237&userId=1700000000699002): I have some experience in the fund industry.
