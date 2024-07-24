@@ -22,12 +22,12 @@
 My career reflects my core values: an enduring commitment to lifelong learning, a deep dedication to environmental stewardship, and an insatiable curiosity that drives my exploration and innovation. These values guide my work across various domains.
 
 ### 🌟 Featured Projects
-I have contributed to the following open-source projects:
+I have a deep admiration for engineers who contribute to open-source projects. I have either led or participated in the following open-source projects (listing only a few):
+- [Graph Data Lab](https://github.com/ongdb-contrib)
 - [Neo4j](https://github.com/neo4j)
 - [The Graph Foundation](https://github.com/graphfoundation)
 - [LangChain](https://github.com/langchain-ai)
 - [GraphRAG](https://github.com/microsoft/graphrag)
-- [Graph Data Lab](https://github.com/ongdb-contrib)
 
 ### 📚 Books I’ve Written
 - [《精通Neo4j》](https://baike.baidu.com/item/%E7%B2%BE%E9%80%9ANeo4j): This is a book that I wrote together with friends from the Neo4j community.
