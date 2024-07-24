@@ -13,6 +13,7 @@
   <strong><a href="http://neo4j.com.cn/user/crazyyanchao">Neo4j Community</a></strong>  |
   <strong><a href="http://www.demodashi.com/demo/13181.html">Demo Master</a></strong>  |
   <strong><a href="https://gitee.com/yc-ma">Gitee</a></strong>
+  <strong><a href="https://medium.com/@1141679423Chao">Medium</a></strong>
 </p>
 
 <a href="https://raw.githubusercontent.com/crazyyanchao/blog/master/images/wechat.gif"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/crazyyanchao/count.svg" /></a>
