@@ -21,6 +21,8 @@
 ## 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
 My career reflects my core values: an enduring commitment to lifelong learning, a deep dedication to environmental stewardship, and an insatiable curiosity that drives my exploration and innovation. These values guide my work across various domains.
 
+I have written some programs to help my wife, who works in the media industry, monitor financial market information. These programs can scrape data from financial and government websites and then push updates via WeChat. Additionally, I have written other private programs to help her improve work efficiency and earnings.
+
 ### 🌟 Featured Projects
 I have a deep admiration for engineers who contribute to open-source projects. I have either led or participated in the following open-source projects (listing only a few):
 - [Graph Data Lab](https://github.com/ongdb-contrib): This is a team I lead, primarily focused on developing and collecting interesting repositories related to graph data applications.
