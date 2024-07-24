@@ -24,13 +24,16 @@ My career reflects my core values: an enduring commitment to lifelong learning, 
 ### 🌟 Featured Projects
 I have contributed to the following open-source projects:
 - [Neo4j](https://github.com/neo4j)
+- [The Graph Foundation](https://github.com/graphfoundation)
 - [LangChain](https://github.com/langchain-ai)
 - [GraphRAG](https://github.com/microsoft/graphrag)
 - [Graph Data Lab](https://github.com/ongdb-contrib)
 
+### 📚 Books I’ve Written
+- [《精通Neo4j》](https://baike.baidu.com/item/%E7%B2%BE%E9%80%9ANeo4j): This is a book that I wrote together with friends from the Neo4j community.
+
 ## 𝑺𝒐𝒎𝒆 𝑩𝒍𝒐𝒈
 <a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
-- [重磅上市《精通Neo4j》](https://blog.csdn.net/superman_xxx/article/details/127971062)
 - [LangChain 2 ONgDB：大模型+知识图谱实现领域知识问答](https://blog.csdn.net/superman_xxx/article/details/130434269)
 - [GPT-3.5 生成 Fabric Cypher](https://blog.csdn.net/superman_xxx/article/details/130393722)
 - [图谱问答：自定义组装问答系统进阶指南](https://blog.csdn.net/superman_xxx/article/details/130022089)
