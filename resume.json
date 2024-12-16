@@ -1,0 +1,152 @@
+{
+    "titleNameMap": {
+        "educationList": "教育背景",
+        "workExpList": "工作经历",
+        "projectList": "项目经验",
+        "skillList": "个人技能",
+        "awardList": "更多信息",
+        "workList": "个人作品",
+        "aboutme": "个人评价"
+    },
+    "avatar": {
+        "src": "https://raw.githubusercontent.com/crazyyanchao/blog/refs/heads/master/images/avatar-2.jpg",
+        "hidden": false,
+        "shape": "square"
+    },
+    "profile": {
+        "name": "马延超",
+        "email": "yanchaoma@foxmail.com",
+        "mobile": "18511085575",
+        "github": "https://github.com/crazyyanchao",
+        "zhihu": "www.zhihu.com/YanchaoMa",
+        "workExpYear": "2017年至今",
+        "workPlace": "北京",
+        "positionTitle": "数据与算法应用开发"
+    },
+    "educationList": [
+        {
+            "edu_time": [
+                "2013.09",
+                "2017.07"
+            ],
+            "school": "北京信息科技大学",
+            "major": "计算机科学与技术",
+            "academic_degree": "本科",
+            "dataIndex": 0
+        }
+    ],
+    "awardList": [
+        {
+            "award_info": "2024春华秋实杯技术达人 大模型应用 LLMCompiler/GraphRAG 相关技术研发",
+            "award_time": "2024.12",
+            "dataIndex": 0
+        },
+        {
+            "award_time": "2024.10",
+            "award_info": "2023科技巡航讲师徽章 大模型相关技术培训",
+            "dataIndex": 1
+        },
+        {
+            "award_time": "2023.11",
+            "award_info": "基金从业资格 中国证券投资基金业协会"
+        },
+        {
+            "award_time": "2020.12",
+            "award_info": "2020年度最佳执行力 雏鹰奖 知识图谱应用研发",
+            "dataIndex": 3
+        },
+        {
+            "award_time": "2020.07",
+            "award_info": "嘉实基金首届黑客马拉松创意开发大赛团队一等奖"
+        },
+        {
+            "award_time": "2019.01",
+            "award_info": "中科院自动化所研发组年度优秀员工",
+            "dataIndex": 4
+        },
+        {
+            "award_time": "2018.11,2024.02",
+            "award_info": "Neo4j Certified Professional 等多个 Neo4j 证书",
+            "dataIndex": 6
+        },
+        {
+            "award_time": "2016.08",
+            "award_info": "Big Data Developer 大数据技术证书 小象社区",
+            "dataIndex": 7
+        }
+    ],
+    "workExpList": [
+        {
+            "company_name": "嘉实基金管理有限公司",
+            "department_name": "数智服务部",
+            "work_time": [
+                "2020.04",
+                ""
+            ],
+            "work_desc": "大模型应用开发工程师。2023年底开始参与公司战略项目《大模型算力平台建设及应用探索》。\n2022年底开始参与AI应用开发探索，2023年底成立嘉实远见科技(北京)有限公司数智能服务部，成为部门核心研发人员参与投研、大市场、客服等多个部门AI应用项目的开发，涉及策略研发、智能搜索、推荐、问答等。",
+            "dataIndex": 0
+        },
+        {
+            "company_name": "嘉实基金管理有限公司",
+            "department_name": "数据化研究中心",
+            "work_time": [
+                "2020.04",
+                ""
+            ],
+            "work_desc": "知识图谱工程师。负责公司底层分布式图数据库集群架构设计与维护和开发；工程化构建关系型数据库到图数据库的 ETL；持续优化图数据库的入库、存储、检索和计算效率；参与知识图谱生产应用的维护和开发以及图数据模型设计相关工作；为公司策略研发、风险研究、大市场以及客服等业务应用提供支持。",
+            "dataIndex": 1
+        },
+        {
+            "company_name": "中国科学院自动化研究所",
+            "department_name": "复杂实验室工程化团队",
+            "work_time": [
+                "2017.03",
+                "2020.04"
+            ],
+            "work_desc": "数据工程师。主要负责数据分析，全媒体数据平台和图数据知识图谱开发，以及在上亿级大规模数据下相关功能组件优化工作。工作过程中需要经常与业务客户进行沟通确认需求，保证正确高效的开展相关工作。经常在数据开发者的角度为其它研发人员提供建议和帮助。",
+            "dataIndex": 2
+        }
+    ],
+    "skillList": [],
+    "projectList": [
+        {
+            "project_name": "基于大规模文档的数据挖掘系统",
+            "project_role": "算法负责人",
+            "project_time": "2023.01 - 至今（嘉实数智服务部期间代表性项目列举其一）",
+            "project_desc": "面向投研、大市场等业务人员的数据产品。提供基金公告、研究报告、公司公告、评级报告等结构化与非结构化数据的智能问答、检索，帮助业务人员高效对比、查询、提取数据，赋能业务研究应用。",
+            "project_content": "独立负责从 0 到 1 的智能化技术开发与迭代（在项目中具有推动项目进度的经验），相关技术成果LLMCompiler、JSRAG(GraphRAG)进行抽象后发布为公用SDK，为集团其它应用研发提供支持。同时相关成果得到集团科技体系认可获得2024年春华秋实杯技术达人称号。",
+            "dataIndex": 0
+        },
+        {
+            "project_name": "基于知识图谱的智能投研系统",
+            "project_role": "知识图谱负责人",
+            "project_time": "2020.04 - 至今（嘉实数据化研究中心期间代表性项目列举其一）",
+            "project_desc": "该系统旨在通过构建一个全面的金融知识图谱，为投资者和研究人员提供一个深度分析和决策支持工具。系统利用先进的自然语言处理（NLP）、机器学习和图数据库技术，将复杂的金融数据转化为直观、可查询的知识结构，从而实现对投资机会的快速识别和风险评估。",
+            "project_content": "在该项目中主要负责知识图谱建设以及工程治理。主导知识图谱能力构建，负责图平台研发，参与图数据的建模、生产、运维管理、计算、应用、可视化等图数据的全流程开发与运维，负责推进和协调开发资源并与业务同事展开合作利用知识图谱挖掘投资机会、识别潜在风险。项目推进期间获得过公司年度最佳执行力相关表彰。",
+            "dataIndex": 1
+        },
+        {
+            "project_name": "基于全媒体的大数据分析平台",
+            "project_role": "核心开发者",
+            "project_time": "2017 - 2020（中科院复杂实验室工程团队期间代表性项目列举其一）",
+            "project_desc": "系统主要面向政府、企业人员进行舆情监测、分析，为决策提供支持，利用自然语言处理、大数据、知识图谱技术，从海量数据中提取有价值的信息和趋势。",
+            "project_content": "主要负责全媒体数据平台和知识图谱开发，以及在大规模数据下相关功能组件源码优化工作。1. 负责数据预处理、索引设计及性能优化，提升Elasticsearch、Neo4j、MySQL等数据库的查询效率和稳定性；2. 主导从数据预处理到知识图谱构建的全流程开发，优化图谱性能，并结合可视化技术（如D3.js）展示复杂关系；3. 设计并实现高效的增删改查数据接口，支持多场景业务需求，提升系统可扩展性和跨部门协作效率；4. 自主研发定制化监控工具，基于Elasticsearch REST API开发索引监控平台，提升系统运维效率。项目推进期间获得优秀员工称号。",
+            "dataIndex": 2
+        }
+    ],
+    "workList": [
+        {
+            "work_name": "出版书籍《精通Neo4j》",
+            "work_desc": "作为核心作者参与书籍编写工作，本书是基于Neo4j的全面指南，适合初学者和专家，覆盖Neo4j的基本概念、查询语言、开发技术、管理运维等多个方面，第一册发行量超过13000册，可从百度百科查看。",
+            "visit_link": "https://baike.baidu.com/item/%E7%B2%BE%E9%80%9ANeo4j",
+            "dataIndex": 0
+        }
+    ],
+    "aboutme": {
+        "aboutme_desc": "🌱 多年数据与算法相关项目经历，运营个人博客《马超的博客》超过8年，对新技术时刻保持好奇心，个人主要优势为擅长团队协作与沟通，掌握知识图谱应用、大模型应用相关核心技术，熟悉Java、Python等多种编程语言，对Elasticsearch、Neo4j、LangChain、GraphRAG等多个业内知名的开源库做出过贡献。（简历重点罗列大学毕业后工作情况，大学期间多个项目、奖项和作品被忽略）"
+    },
+    "theme": {
+        "color": "#2f5785",
+        "tagColor": "#8bc34a"
+    }
+}
