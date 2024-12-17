@@ -6,7 +6,8 @@
         "skillList": "个人技能",
         "awardList": "更多信息",
         "workList": "个人作品",
-        "aboutme": "个人评价"
+        "aboutme": "个人评价",
+        "workList2": "博客精选",
     },
     "avatar": {
         "src": "https://raw.githubusercontent.com/crazyyanchao/blog/refs/heads/master/images/avatar-2.jpg",
@@ -135,6 +136,14 @@
         }
     ],
     "workList": [
+        {
+            "work_name": "出版书籍《精通Neo4j》",
+            "work_desc": "作为核心作者参与书籍编写工作，本书是基于Neo4j的全面指南，适合初学者和专家，覆盖Neo4j的基本概念、查询语言、开发技术、管理运维等多个方面，第一册发行量超过13000册，可从百度百科查看。",
+            "visit_link": "https://baike.baidu.com/item/%E7%B2%BE%E9%80%9ANeo4j",
+            "dataIndex": 0
+        }
+    ],
+     "workList2": [
         {
             "work_name": "出版书籍《精通Neo4j》",
             "work_desc": "作为核心作者参与书籍编写工作，本书是基于Neo4j的全面指南，适合初学者和专家，覆盖Neo4j的基本概念、查询语言、开发技术、管理运维等多个方面，第一册发行量超过13000册，可从百度百科查看。",
