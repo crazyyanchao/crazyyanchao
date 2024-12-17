@@ -6,7 +6,6 @@
         "skillList": "个人技能",
         "awardList": "更多信息",
         "workList": "个人作品",
-        "workList2": "博客精选",
         "aboutme": "个人评价"
     },
     "avatar": {
@@ -24,8 +23,7 @@
         "workPlace": "北京",
         "positionTitle": "数据与算法应用开发"
     },
-    "educationList": [
-        {
+    "educationList": [{
             "edu_time": [
                 "2013.09",
                 "2017.07"
@@ -36,48 +34,39 @@
             "dataIndex": 0
         }
     ],
-    "awardList": [
-        {
+    "awardList": [{
             "award_info": "2024春华秋实杯技术达人 大模型应用 LLMCompiler/GraphRAG 相关技术研发",
             "award_time": "2024.12",
             "dataIndex": 0
-        },
-        {
+        }, {
             "award_time": "2024.10",
             "award_info": "2023科技巡航讲师徽章 大模型相关技术培训",
             "dataIndex": 1
-        },
-        {
+        }, {
             "award_time": "2023.11",
             "award_info": "基金从业资格 中国证券投资基金业协会"
-        },
-        {
+        }, {
             "award_time": "2020.12",
             "award_info": "2020年度最佳执行力 雏鹰奖 知识图谱应用研发",
             "dataIndex": 3
-        },
-        {
+        }, {
             "award_time": "2020.07",
             "award_info": "嘉实基金首届黑客马拉松创意开发大赛团队一等奖"
-        },
-        {
+        }, {
             "award_time": "2019.01",
             "award_info": "中科院自动化所研发组年度优秀员工",
             "dataIndex": 4
-        },
-        {
+        }, {
             "award_time": "2018.11,2024.02",
             "award_info": "Neo4j Certified Professional 等多个 Neo4j 证书",
             "dataIndex": 6
-        },
-        {
+        }, {
             "award_time": "2016.08",
             "award_info": "Big Data Developer 大数据技术证书 小象社区",
             "dataIndex": 7
         }
     ],
-    "workExpList": [
-        {
+    "workExpList": [{
             "company_name": "嘉实基金管理有限公司",
             "department_name": "数智服务部",
             "work_time": [
@@ -86,8 +75,7 @@
             ],
             "work_desc": "大模型应用开发工程师。2023年底开始参与公司战略项目《大模型算力平台建设及应用探索》。\n2022年底开始参与AI应用开发探索，2023年底成立嘉实远见科技(北京)有限公司数智能服务部，成为部门核心研发人员参与多个业务部门AI应用项目的开发，涉及策略研发、智能搜索、推荐、问答等。",
             "dataIndex": 0
-        },
-        {
+        }, {
             "company_name": "嘉实基金管理有限公司",
             "department_name": "数据化研究中心",
             "work_time": [
@@ -96,8 +84,7 @@
             ],
             "work_desc": "知识图谱工程师。负责公司底层分布式图数据库集群架构设计与维护和开发；工程化构建关系型数据库到图数据库的 ETL；持续优化图数据库的入库、存储、检索和计算效率；参与知识图谱生产应用的维护和开发以及图数据模型设计相关工作；为公司策略研发、风险研究、大市场以及客服等业务应用提供支持。",
             "dataIndex": 1
-        },
-        {
+        }, {
             "company_name": "中国科学院自动化研究所",
             "department_name": "复杂实验室工程化团队",
             "work_time": [
@@ -109,24 +96,21 @@
         }
     ],
     "skillList": [],
-    "projectList": [
-        {
+    "projectList": [{
             "project_name": "基于大规模文档的数据挖掘系统",
             "project_role": "算法负责人",
             "project_time": "2023.01 - 至今（嘉实数智服务部期间代表性项目列举其一）",
             "project_desc": "面向投研、大市场等业务人员的数据产品。提供基金公告、研究报告、公司公告、评级报告等结构化与非结构化数据的智能问答、检索，帮助业务人员高效对比、查询、提取数据，赋能业务研究应用。",
             "project_content": "独立负责从 0 到 1 的智能化技术开发与迭代（在项目中具有推动项目进度的经验）。其中智能搜索模块准确率达到90%以上，响应速度控制在3~5秒左右；文档内容挖掘模块支持复杂问题拆解和基于Graph的检索增强生成，有效提升了检索速度准确率和速度。相关技术成果LLMCompiler、JSRAG(GraphRAG)进行抽象后发布为公用SDK，为集团其它应用研发提供支持。同时相关成果得到集团科技体系认可获得2024年春华秋实杯技术达人称号。",
             "dataIndex": 0
-        },
-        {
+        }, {
             "project_name": "基于知识图谱的智能投研系统",
             "project_role": "知识图谱负责人",
             "project_time": "2020.04 - 至今（嘉实数据化研究中心期间代表性项目列举其一）",
             "project_desc": "该系统旨在通过构建一个全面的金融知识图谱，为投资者和研究人员提供一个深度分析和决策支持工具。系统利用自然语言处理、机器学习和图数据库技术，将复杂的金融数据转化为直观、可查询的知识结构，从而实现对投资机会的快速识别和风险评估。",
             "project_content": "在该项目中主要负责知识图谱建设以及工程治理。主导知识图谱能力构建，负责图平台研发，参与图数据的建模、生产、运维管理、计算、应用、可视化等图数据的全流程开发与运维，负责推进和协调开发资源并与业务同事展开合作利用知识图谱挖掘投资机会、识别潜在风险。例如固收风险研究数据穿透报告生成时间从周级别提升到天内完成；股票产业链项目中新概念穿透到上下游产业链的速度达到分钟级实现；智能投研搜索项目中基于知识图谱构建的实体关系数据提供了良好的知识支持，帮助研究员基金经理可以更快更准获取到关注的信息。另外项目推进期间获得过公司年度最佳执行力相关表彰。",
             "dataIndex": 1
-        },
-        {
+        }, {
             "project_name": "基于全媒体的大数据分析平台",
             "project_role": "核心开发者",
             "project_time": "2017 - 2020（中科院复杂实验室工程团队期间代表性项目列举其一）",
@@ -135,20 +119,56 @@
             "dataIndex": 2
         }
     ],
-    "workList": [
-        {
-            "work_name": "出版书籍《精通Neo4j》",
+    "workList": [{
+            "work_name": "书籍：出版书籍《精通Neo4j》",
             "work_desc": "作为核心作者参与书籍编写工作，本书是基于Neo4j的全面指南，适合初学者和专家，覆盖Neo4j的基本概念、查询语言、开发技术、管理运维等多个方面，第一册发行量超过13000册，可从百度百科查看。",
             "visit_link": "https://baike.baidu.com/item/%E7%B2%BE%E9%80%9ANeo4j",
             "dataIndex": 0
-        }
-    ],
-    "workList2": [
-        {
-            "work_name": "出版书籍《精通Neo4j》",
-            "work_desc": "作为核心作者参与书籍编写工作，本书是基于Neo4j的全面指南，适合初学者和专家，覆盖Neo4j的基本概念、查询语言、开发技术、管理运维等多个方面，第一册发行量超过13000册，可从百度百科查看。",
-            "visit_link": "https://baike.baidu.com/item/%E7%B2%BE%E9%80%9ANeo4j",
-            "dataIndex": 0
+        }, {
+            "work_name": "博客：开源LLMCompiler高性能工具调用框架",
+            "work_desc": "",
+            "visit_link": "https://blog.csdn.net/superman_xxx/article/details/140896879",
+            "dataIndex": 1
+        }, {
+            "work_name": "博客：LangChain 2 Neo4j - 大模型+知识图谱实现领域知识问答",
+            "work_desc": "",
+            "visit_link": "https://blog.csdn.net/superman_xxx/article/details/130434269",
+            "dataIndex": 2
+        }, {
+            "work_name": "博客：图谱问答-自定义组装问答系统进阶指南",
+            "work_desc": "",
+            "visit_link": "https://blog.csdn.net/superman_xxx/article/details/130022089",
+            "dataIndex": 3
+        }, {
+            "work_name": "博客：开源-Graphene图数据建模工具",
+            "work_desc": "",
+            "visit_link": "https://blog.csdn.net/superman_xxx/article/details/122971888",
+            "dataIndex": 4
+        }, {
+            "work_name": "博客：一种针对图数据超级节点的数据建模优化解决方案",
+            "work_desc": "",
+            "visit_link": "https://yc-ma.blog.csdn.net/article/details/117884970",
+            "dataIndex": 5
+        }, {
+            "work_name": "博客：翻译-通过图分析分散股票投资组合并降低风险增加收益",
+            "work_desc": "",
+            "visit_link": "https://blog.csdn.net/superman_xxx/article/details/125054770",
+            "dataIndex": 6
+        }, {
+            "work_name": "博客：MapReduce作业Map阶段和Reduce阶段重要过程详述",
+            "work_desc": "",
+            "visit_link": "https://yc-ma.blog.csdn.net/article/details/51390804",
+            "dataIndex": 7
+        }, {
+            "work_name": "博客：Elasticsearch负载均衡策略发生死锁解决方案",
+            "work_desc": "",
+            "visit_link": "https://yc-ma.blog.csdn.net/article/details/91896841",
+            "dataIndex": 8
+        }, {
+            "work_name": "博客：以图搜图-自动生成图模式匹配Cypher",
+            "work_desc": "",
+            "visit_link": "https://blog.csdn.net/superman_xxx/article/details/117047689",
+            "dataIndex": 9
         }
     ],
     "aboutme": {
