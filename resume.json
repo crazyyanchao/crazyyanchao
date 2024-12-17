@@ -44,26 +44,32 @@
             "dataIndex": 1
         }, {
             "award_time": "2023.11",
-            "award_info": "基金从业资格 中国证券投资基金业协会"
-        }, {
+            "award_info": "基金从业资格 中国证券投资基金业协会",
+            "dataIndex": 2
+        },{
+            "award_time": "2022.03",
+            "award_info": "Neo4j知识图谱的商业影响力活动 掘金新石油-金融知识图谱数据建模实战主题分享",
+            "dataIndex": 3
+        },{
             "award_time": "2020.12",
             "award_info": "2020年度最佳执行力 雏鹰奖 知识图谱应用研发",
-            "dataIndex": 3
+            "dataIndex": 4
         }, {
             "award_time": "2020.07",
-            "award_info": "嘉实基金首届黑客马拉松创意开发大赛团队一等奖"
+            "award_info": "嘉实基金首届黑客马拉松创意开发大赛团队一等奖",
+            "dataIndex": 5
         }, {
             "award_time": "2019.01",
             "award_info": "中科院自动化所研发组年度优秀员工",
-            "dataIndex": 4
+            "dataIndex": 6
         }, {
             "award_time": "2018.11,2024.02",
             "award_info": "Neo4j Certified Professional 等多个 Neo4j 证书",
-            "dataIndex": 6
+            "dataIndex": 7
         }, {
             "award_time": "2016.08",
             "award_info": "Big Data Developer 大数据技术证书 小象社区",
-            "dataIndex": 7
+            "dataIndex": 8
         }
     ],
     "workExpList": [{
