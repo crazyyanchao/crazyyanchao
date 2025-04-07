@@ -35,6 +35,10 @@
         }
     ],
     "awardList": [{
+            "award_info": "2024年度最佳创新-AI平台助力业务赋能",
+            "award_time": "2025.3.25",
+            "dataIndex": -1
+        },{
             "award_info": "2024春华秋实杯技术达人 大模型应用 LLMCompiler/GraphRAG 相关技术研发",
             "award_time": "2024.12",
             "dataIndex": 0
